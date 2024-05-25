@@ -1,3 +1,3 @@
 # Alli-Novasitis-CSC
- Repository for my projects
-# Just saying hello
+
+# Hey everyone happy week 3 of class! Arrays are prominent in many of the coding languages, but in Java specifically, it is a fixed-size, ordered collection of elements of the same type. In Java Arrays are seen pretty frequently and are used to store a fixed number of elements. These Arrays can provide fast access to elements via an index, but they're ideal when the number of elements to be stored is known in advance and does not change. Some of the key characteristics of Arrays is that they're a fixed size, can only have one type, and are accessed using their index positions. Another important tool in Java is ArrayLists, which is essentially a resizable array. Unlike arrays, these ArrayLists can grow and shrink. Arraylists can also contain any type of element instead of only one.
